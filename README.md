@@ -1,6 +1,6 @@
-# todoapp
+# Todo App
 
-Todo App wirh Firebase Authentication
+Todo App wirh Firebase Authentication and performs CRUD operations.
 
 ## Getting Started
 
